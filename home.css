@@ -5,11 +5,10 @@ body {
 }
 
 #coupan-container{
-    width: 600px;
-    height: 532px;
+    width: 40%;
     position: absolute;
     top: 20%;
-    left: 35%;
+    left: 25%;
     background-color: red;
     z-index: 10000;
     visibility: hidden;
